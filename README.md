@@ -1,1 +1,2 @@
 # C
+Welcome to my C Practice Repository! This repository is a dedicated for honing my C programming skills through a series of exercises and coding challenges. Whether you're a C enthusiast, a student learning the language, or a developer looking to refresh your C knowledge, this repository offers a of hands-on coding experience. 
